@@ -47,6 +47,8 @@ Ensure you have the following installed on your system:
 5. **Create a superuser (optional, for admin access)**:
    ```bash
    python manage.py createsuperuser
+   ```
+   -Follow the prompt steps by giving your username, password and confirm password
 6. **Run the development server**:
    ```bash
    python manage.py runserver
